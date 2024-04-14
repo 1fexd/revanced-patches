@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/1fexd/revanced-patches/compare/v1.0.0...v1.1.0) (2024-04-14)
+
+
+### Features
+
+* Add all ID Austria patches ([f615adf](https://github.com/1fexd/revanced-patches/commit/f615adf937045a4fe14286547f095760a85b75ba))
+
 # [1.1.0-dev.1](https://github.com/1fexd/revanced-patches/compare/v1.0.0...v1.1.0-dev.1) (2024-04-14)
 
 
