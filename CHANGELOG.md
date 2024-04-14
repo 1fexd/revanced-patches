@@ -1,3 +1,10 @@
+# [1.0.0-dev.2](https://github.com/1fexd/revanced-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2024-04-14)
+
+
+### Bug Fixes
+
+* Maven url ([dfac04c](https://github.com/1fexd/revanced-patches/commit/dfac04c91a0feb93b8570e0ea6b4c0fe93f012fa))
+
 # 1.0.0-dev.1 (2024-04-14)
 
 
