@@ -1,3 +1,23 @@
+# 1.0.0 (2024-04-14)
+
+
+### Bug Fixes
+
+* Maven url ([dfac04c](https://github.com/1fexd/revanced-patches/commit/dfac04c91a0feb93b8570e0ea6b4c0fe93f012fa))
+* Update API ([9f991c2](https://github.com/1fexd/revanced-patches/commit/9f991c22537207aff7e92eb9b95b22c71d7f371e))
+
+
+### Features
+
+* Add ID Austria crashfix ([a46a332](https://github.com/1fexd/revanced-patches/commit/a46a332da819dfb9153ef4048a843ce2aa266f3d))
+
+# [1.0.0-dev.2](https://github.com/1fexd/revanced-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2024-04-14)
+
+
+### Bug Fixes
+
+* Maven url ([dfac04c](https://github.com/1fexd/revanced-patches/commit/dfac04c91a0feb93b8570e0ea6b4c0fe93f012fa))
+
 # 1.0.0-dev.1 (2024-04-14)
 
 
