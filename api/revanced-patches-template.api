@@ -1,5 +1,5 @@
-public final class app/revanced/patches/example/ExamplePatch : app/revanced/patcher/patch/BytecodePatch {
-	public static final field INSTANCE Lapp/revanced/patches/example/ExamplePatch;
+public final class app/revanced/patches/idaustria/crashfix34/CrashFix34Patch : app/revanced/patcher/patch/BytecodePatch {
+	public static final field INSTANCE Lapp/revanced/patches/idaustria/crashfix34/CrashFix34Patch;
 	public fun execute (Lapp/revanced/patcher/data/BytecodeContext;)V
 	public synthetic fun execute (Lapp/revanced/patcher/data/Context;)V
 }
