@@ -1,7 +1,7 @@
 [versions]
 revanced-patcher = "19.3.1"
 smali = "3.0.9"
-binary-compatibility-validator = "0.16.3"
+binary-compatibility-validator = "0.17.0"
 kotlin = "2.1.0"
 
 [libraries]
