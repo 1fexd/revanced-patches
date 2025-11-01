@@ -2,7 +2,7 @@
 revanced-patcher = "19.3.1"
 smali = "3.0.9"
 binary-compatibility-validator = "0.17.0"
-kotlin = "2.2.20"
+kotlin = "2.2.21"
 
 [libraries]
 revanced-patcher = { module = "app.revanced:revanced-patcher", version.ref = "revanced-patcher" }
